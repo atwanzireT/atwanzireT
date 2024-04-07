@@ -21,7 +21,7 @@
   #### 👨🏻‍💻 Frameworks <br />
   <img src="https://img.icons8.com/ios/50/000000/flask.png"/> &nbsp;
   <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/reactnative.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react native.png"/>&nbsp;
 
   #### 👨🏻‍💻 Databases <br />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
