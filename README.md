@@ -11,19 +11,18 @@
   
 #### 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/asiimwe-edger-6567aa1b6/)  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/4441059/asiimwe-edgar)  &nbsp; 
-<a href="mailto:edgerasiimwe@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/timothy-atwanzire-795ba1223)  &nbsp; 
+<a href="mailto:tatwanzire.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   #### 👨🏻‍💻 Languages <br />
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://icons8.com/icon/108784/javascript"/>
 
   #### 👨🏻‍💻 Frameworks <br />
   <img src="https://img.icons8.com/ios/50/000000/flask.png"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/000000/django.png"/>
-  
+  <img src="https://img.icons8.com/color/48/000000/django.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/reactnative.png"/>&nbsp;
+
   #### 👨🏻‍💻 Databases <br />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
   <img src="https://img.icons8.com/color/48/1A1A1A/postgreesql.png"/>
